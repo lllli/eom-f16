@@ -15,4 +15,7 @@ ellipse(x2,50,20,20);
 x2 = 70; //re-assign the integer x2
 ellipse(x2,50,20,20);
 
-
+ellipse(60,20,20,20);
+ellipse(60,20+(1*20),20/2,20/2);
+ellipse(60,20+(2*20),20/3,20/3);
+ellipse(60,20+(3*20),20/4,20/4);
